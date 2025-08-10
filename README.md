@@ -65,3 +65,6 @@ python3 script.py
 ```
 
 This will create a folder called `out` in your folder, e.g., `memories/out/`. In it, you will find the `.jpg`, `.jpeg`, and `.mp4` files that you can import into Apple Photos. Try it out with a photo or a video and see if it pops up in the right place. Let me know if you face any issues.
+
+> [!TIP]
+> If you encounter `Unknown error.` when trying to import the files into macOS Apple Photos, restart your Mac.
