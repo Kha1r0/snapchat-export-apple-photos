@@ -1,3 +1,10 @@
+> [!WARNING]  
+> Currently, when downloading your files from Snapchat, it seems they don't have their date in the file name anymore, which means this script doesn't work anymore.
+>
+> I don't know why they suddenly changed it to this more complicated way, but here we are.
+>
+> If you read this, try downloading your files anyway and see if they have their date in the file name. **If they do, please let me know [here](https://github.com/Kha1r0/snapchat-export-apple-photos/issues/4).**
+
 # snapchat-export-apple-photos
 > This was created in June 2025.
 
